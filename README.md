@@ -8,7 +8,7 @@ This project detects different market conditions (e.g., bull, bear, high volatil
 
 ## Live Demo
 
-Streamlit Dashboard: [PASTE YOUR STREAMLIT LINK HERE]
+Streamlit Dashboard: https://market-regime-l3ktmxndfshr5wkhpdrkzk.streamlit.app/#price
 
 ---
 
